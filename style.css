@@ -25,16 +25,45 @@ img {
     border-radius: 10px;
     margin-top: 20px;
 }
-nav {
-    background-color: #1a1a1a;
-    padding: 15px;
+nav{
+    background-color:#1a1a1a;
+    padding:15px;
+    border-radius:8px;
+    margin-bottom:30px;
 }
-nav a {
-    color: #00bfff;
-    margin: 10px;
+nav a{
+    color:#00bfff;
+    margin:0 15px;
     text-decoration:none;
-    front-weight: bold;
+    front-weight:bold;
 }
-nav a:hover {
-    color: white;
+nav a:hover{
+    color:white;
+}
+h1{
+    font-size: 40px;
+    margin-botttom: 10px;
+}
+h2{
+    margin-top: 30px;
+}
+
+nav{
+    background-color:#1a1a1a;
+    padding:15px;
+    border-radius:8px;
+}
+.tagline{
+    color:#00bfff;
+    front-size:20px;
+}
+p{
+    line-height:1.6;
+}
+ul{
+    list-style-type:none;
+    padding:0;
+}
+li{
+    margin:8px 0;
 }
